@@ -13,6 +13,13 @@
 Estudante de **Sistemas de Informação** no **IFCE**, com interesse em desenvolvimento de software e tecnologias.
 
 ---
+<p align="center">
+  <a href="https://tailandev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-acesse%20aqui-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
 
 ### 🛠️ Tecnologias
 - HTML, CSS, JavaScript  
