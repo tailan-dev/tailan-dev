@@ -26,10 +26,17 @@ Estudante de **Sistemas de Informação** no **IFCE**, com interesse em desenvol
 ---
 
 ### 📈 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tailan-dev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailan-dev&layout=compact&theme=radical" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tailan-dev&show_icons=true&theme=radical" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailan-dev&layout=compact&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
