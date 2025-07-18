@@ -21,15 +21,16 @@ Estudante de **Sistemas de Informação** no **IFCE**, com interesse em desenvol
 - Rust
 - Type script
 - Git & GitHub  
-- (adicione outras que quiser)
+  
 
 ---
 
 ### 📈 Estatísticas
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tailan-dev&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailan-dev&layout=compact&theme=radical" />
 </div>
+
 
 ---
 
